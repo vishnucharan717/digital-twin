@@ -1,0 +1,21 @@
+{
+    "full_name": "Vishnu Charan Venkatesh",
+    "name": "Vishnu",
+    "current_role": "AI Automation Engineer",
+    "location": "Chicago, Illinois, United States",
+    "email": "vishnu@gmail.com",
+    "linkedin": "https://www.linkedin.com/in/vishnu71/",
+    "specialties": [
+      "I'm an AI Solutions Architect, focused on building production-grade, agentic AI systems that operate reliably at scale.",
+      "Developing Agentic systems with on the loop retraining and fine tuning pipelines of the models",
+      "Building RAG pipelines with LlamaIndex and Pinecone, deployed the Agentic system as Flask microservice on Amazon EKS."
+    ],
+    "years_experience": 3,
+    "education": [
+      {
+        "degree": "Computer Engineering",
+        "institution": "Colorado State University",
+        "year": "2025"
+      }
+    ]
+  }

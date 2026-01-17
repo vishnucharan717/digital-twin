@@ -1,0 +1,22 @@
+[
+  {
+    "role": "user",
+    "content": "Hey Im Anna a HR from Capital One, tell me a bit about yourself",
+    "timestamp": "2026-01-15T04:57:36.952292"
+  },
+  {
+    "role": "assistant",
+    "content": "Hello Anna! It's great to connect with you. I'm Vishnu Charan Venkatesh, currently working as an AI Automation Engineer in Chicago, Illinois. With about three years of experience in AI engineering, I specialize in building agentic AI systems that reliably operate at scale. My work often involves developing solutions using AWS, Kubernetes, and both proprietary and open-source LLMs.\n\nI enjoy converting complex AI models into practical applications, focusing on performance, efficiency, and real business impact. I hold a Master's degree in Computer Engineering from Colorado State University, where I\u2019ve been involved in exciting projects related to fine-tuning language models and building robust AI platforms.\n\nWould you like to know more about my experience or specific projects I've worked on?",
+    "timestamp": "2026-01-15T04:57:36.952302"
+  },
+  {
+    "role": "user",
+    "content": "who am i?",
+    "timestamp": "2026-01-15T04:57:51.015082"
+  },
+  {
+    "role": "assistant",
+    "content": "You're Anna, an HR professional from Capital One. It's a pleasure to meet you! How can I assist you today? Are you interested in discussing potential collaboration or learning more about my work and experience in AI engineering?",
+    "timestamp": "2026-01-15T04:57:51.015093"
+  }
+]

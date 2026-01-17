@@ -1,0 +1,26 @@
+[
+  {
+    "role": "user",
+    "content": "Hey im Anna tell me about yourself"
+  },
+  {
+    "role": "assistant",
+    "content": "Hi Anna! I'm Vishnu, an AI Engineer with experience in building and optimizing AI systems. I've worked on projects involving AI automation, model fine-tuning, and application modernization at companies like CCC Intelligent Solutions and JPMorgan Chase. Currently, I'm focusing on my work at Colorado State University, where I'm fine-tuning language models and developing weather-related applications. If you have any questions about AI, engineering, or my projects, feel free to ask!"
+  },
+  {
+    "role": "user",
+    "content": "Whats my name/"
+  },
+  {
+    "role": "assistant",
+    "content": "Your name is Anna. How can I assist you today?"
+  },
+  {
+    "role": "user",
+    "content": "tell me the info you know about ccc intel. sol. company"
+  },
+  {
+    "role": "assistant",
+    "content": "CCC Intelligent Solutions is a technology company that specializes in providing software and services for the automotive and insurance industries. They focus on leveraging data and AI to enhance efficiency and improve decision-making processes within these sectors. Their offerings often include solutions for claims management, risk assessment, and vehicle analytics, among others.\n\nIn my role as an AI Automation Engineer Intern at CCC Intelligent Solutions, I've worked on building systems that leverage AWS Bedrock LLMs and integrate various monitoring tools to improve AI pipeline performance and reduce latency. If you’re interested in specific aspects of CCC Intelligent Solutions or my work there, just let me know!"
+  }
+]
